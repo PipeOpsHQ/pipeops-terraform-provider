@@ -1,6 +1,6 @@
 module github.com/PipeOpsHQ/terraform-provider-pipeops
 
-go 1.25.3
+go 1.24.0
 
 require (
 	github.com/PipeOpsHQ/pipeops-go-sdk v0.2.6
